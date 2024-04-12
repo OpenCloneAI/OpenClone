@@ -1,4 +1,4 @@
-# OpenClone
+# OpenClone 🧠
 
 Towards open-source AI clones.
 
